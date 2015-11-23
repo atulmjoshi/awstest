@@ -1,4 +1,4 @@
-FROM Java
+FROM java
 FROM tomcat:8
 MAINTAINER atul_m_joshi@hotmail.com
 
